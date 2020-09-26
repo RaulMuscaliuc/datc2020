@@ -1,0 +1,6 @@
+Microsoft Office 365
+
+  Este un serviciu oferit prin abonamet de cei de la Microsoft.
+  Acest SaaS a centralizat aplicatile celor de la Microsoft, cum ar fi Word, Excel, Outlook, intr-o singura aplicatie web. Din aceasta utilizatorul
+are acces la toate aplicatiile. Tot de ce ai nevoie este un abonament si un cont.
+  Este foarte convenabil deoarece nu mai ai nevoie fizic de laptop-ul personal pentru accesarea si stocarea datelor, toatea acestea fiind online.
