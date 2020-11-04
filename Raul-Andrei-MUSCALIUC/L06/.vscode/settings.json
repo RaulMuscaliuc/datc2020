@@ -1,0 +1,9 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ddedb001-4d99-4e0d-8818-97f5f790c3a8/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/radu-datc2020-storage-miercuri",
+    "appService.deploySubpath": "publish",
+    "azureFunctions.deploySubpath": "bin/Release/netcoreapp2.1/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish"
+}
